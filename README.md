@@ -1,5 +1,6 @@
 # devops-netology
 new string /n
+изменен в PyCharm
 Игнорируются:
 все директории '.terraform'
 файлы заканчивающиеся/содержащие '.tfstate'
