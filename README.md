@@ -1,5 +1,5 @@
 # devops-netology
-new string
+new string /n
 Игнорируются:
 все директории '.terraform'
 файлы заканчивающиеся/содержащие '.tfstate'
